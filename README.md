@@ -3,4 +3,4 @@
 2. npm install
 3. run expo app
 4. create user
-
+5. enjoy your app!
